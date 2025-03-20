@@ -20,3 +20,5 @@ This project demonstrates various data visualizations using **Matplotlib** in Py
 
 ## 🔗 **Project Link:**  
 [GitHub Repository](https://github.com/sonu-analytics/-Matplotlib-Data-Visualization-.git)  
+
+https://github.com/sonu-analytics/-Matplotlib-Data-Visualization-/blob/main/Screenshot%202025-03-21%20001656.png
